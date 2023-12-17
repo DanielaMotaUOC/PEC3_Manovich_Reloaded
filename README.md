@@ -41,11 +41,15 @@ Todo esto se realiza en tiempo real, puedes modificar y alterar los sonidos de t
 
 Lo mejor de este juego es que no necesitas tener nociones musicales o de ópera. Simplemente necesitamos explorar en nuestra creatividad e ingenio para componer y poder armonizar estas voces para crear melodías totalmente originales y más que ahora vienen las navidades.
 
-La tecnología en que se basa blob opera es el Machine Learning. Desde luego, todo esto utiliza algoritmos de inteligencia artificial ya que tiene que captar además a las voces humanas que luego se convertirán en sonidos emitidos por nuestro ordenador según el tono que utilicemos.
+La tecnología en que se basa blob opera es el Machine Learning. Desde luego, todo esto utiliza algoritmos de inteligencia artificial ya que tiene que captar además a las voces humanas que luego se convertirán en sonidos emitidos por nuestro ordenador según el tono que utilicemos. Pero eso es lo interesante de este proyecto que unes técnicas diferentes  como la inteligencia artificial para reproducir las voces, pero usas voces en la vida real para generar los sonidos y tonalidades.
 
 Si modulamos la melodía de un solo personaje, veremos cómo los demás intentarán acoplarse para completar la armonía y generar una pieza musical acorde y convincente. Los resultados pueden ser muy sorprendentes.
 
-Además de poder crear música es una unión bastante amigable a nivel visual y funcional entre la tecnología y las artes y esto nos viene como un gran ejemplo para entender mucho más la hibridación de los medios y lo que nos ha explicado Manovich en el software toma el mando, ya que pensamos que al ser dos disciplinas diferentes no puede hacerse algo maravilloso en donde puedan compaginarse este tipo de actividades y es algo novedoso en este mundo en el que estamos ahora mismo absorbidos en las redes sociales, YouTube, streamings, etc.
+Al ya conocer cómo y en qué consiste blob opera sabemos que es un buen ejemplo para entender la hibridación ya que combina varios elementos como la música, animación y la interacción que generamos nosotros mismos para poder crear una experiencia única.
+
+La música es uno de los medios más antiguos y tradicionales por excelencia y entraría como **formato tradicional** y la animación la podríamos considerar como un **formato más nuevo**. Podemos visualizar esta hibridación de forma interactiva ya que la música se crea gracias a los movimientos de los blobs y que van cambiando de forma. Y como se ha mencionado anteriormente, gracias a la inteligencia artificial se genera la animación de los personajes.
+
+La hibridación de los medios hoy en día es importante para la creación de nuevos medios digitales. Blob opera es un buen ejemplo para comprender cómo podemos llegar a nuevos formatos y técnicas de medios y que la hibridación sea más fácil y accesible para todos.
 
 Pero esto nos deja un gran aprendizaje y moraleja que sí, gracias a la hibridación que hemos comentado y que hemos leído en este libro podemos crear y generar plataformas actuales, inteligentes y que con algo tan sencillo como la música podemos interactuar con algo totalmente novedoso y original.
 
@@ -63,9 +67,9 @@ El programa es bastante sencillo de utilizar, pero es como todo, primero debes a
 
 Para comenzar a utilizar esta plataforma simplemente basta con registrarse, entender y leer las guías de usuario que nos van a permitir entender cómo debemos empezar a utilizar la plataforma y comenzar a construir las secuencias. Su funcionalidad se basa en subir capas de información, permitiendo mostrar públicamente los productos diseñados, porque funciona además como galería de creadores, un moodboard que puedes diseñar a tu antojo y que a nivel visual es muy enriquecedor para este tipo de contenido, siendo este es uno de sus aspectos más relevantes.
 
-Lo mejor de todo esto es que eko studio fue diseñada para que cualquier persona pueda crear las historias que quiera sin la necesidad de tener conocimientos previos ya sea en otras plataformas de creación de videos o conocimientos técnicos ya que como hemos mencionado anteriormente, su interfaz es bastante intuitiva y fácil de usar.
+A nivel de formatos, esta plataforma utiliza música y sonido. Puedes modificar la música y sonido a tu antojo ya que cuenta con paneles de controles para poder ecualizar o modificar con técnicas de sonido y gracias a esta interacción con la que cuenta el usuario puedes crear música original.
 
-Simplemente tenemos que dejar fluir nuestra imaginación y saber lo que queremos hacer, ya que podemos usar eko studio para crear historias interactivas como juegos, algún video que sea educativo y necesitemos que sea interactivo, documentales, un catálogo de productos para vender, etc. Además, que no necesariamente tiene que ser para uso particular, desde luego muchas empresas, organizaciones y artistas han usado esta plataforma para presentar sus productos o contenido a mostrar.
+Y aunque utilice técnicas tradicionales y modernas como la música y la inteligencia artificial vemos que todo este conjunto puede coexistir de forma que, bajo un mismo ecosistema, se puedan abordar múltiples opciones para la creación de contenido. Los usuarios pueden crear con algún sonido de la naturaleza su propia música, teniendo así por un lado la música y por otro la naturaleza. Y así con ello, crear efectos, textos, imágenes, dando a conocer que técnicas de medios tradicionales y novedosos, trabajando con ellos correctamente podemos generar nuevo contenido que quizás pueda ser el comienzo de la creación de nuevos medios o softwares.
 
 Las principales características técnica que puede tener esta plataforma son:
 
